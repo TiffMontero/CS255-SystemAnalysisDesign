@@ -1,1 +1,9 @@
 # CS255-SystemAnalysisDesign
+
+The owner of DriverPass wanted to fill a need in the market for student drivers. Many students fail their first attempt at a driving exam. By providing practice tests and driving lessons, DriverPass hopes to help students pass their driving test on the first try.
+
+I feel confident with the business requirement document. I originally struggled with understanding the difference between functional and nonfunctional requirements, but I felt much more confident by the end of the course. I did have a hard time with some of the diagrams, specifically the use case diagram. I feel I was overthinking who all would be considered and actor and if I was detailing too much to the point of compromising legibility.
+
+Having the interview document helped immensely in ensuring I was meeting all of the client's needs. I took notes that highlighted the most important features and referred back as needed for any additional details. I broke them down to step by step tasks to better understand the flow of data needed to have a successful project that met all of the client's needs. It's important to meet the client's needs to deliver a product that will meet the features they've requested and gives them a product that will ultimately be useful to them. You want your client to be happy with the system they've purchased.
+
+So far, my approach to designing software has been to be as detailed as possible with the functionalities that need to be met. Then slowly break those down into each step to better understand the flow of data. Learning about functional and nonfunctional requirements, assumptions, limitations, etc. really helped organize what is expected. Highlighting that data also helps see where any gaps in information may be, or of any clarification needed from the client. It's something I will definitely continue to use.
